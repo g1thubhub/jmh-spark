@@ -5,7 +5,7 @@ import org.openjdk.jmh.runner.options.{CommandLineOptions, OptionsBuilder}
 
 object MyRunnerScala {
 
-  val test2Run = "StreamsJ"
+  val test2Run = "Bench_APIs1"
 
   def launchBenchmark(args: CommandLineOptions) {
 
